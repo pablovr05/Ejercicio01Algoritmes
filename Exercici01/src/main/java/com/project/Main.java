@@ -109,7 +109,6 @@ public class Main {
                 isTheSame = "Les llistes no són iguals";
             }
         }
-        System.out.println("");
-        System.out.println(isTheSame);
+        System.out.println("\n" + isTheSame);
     }
 }
